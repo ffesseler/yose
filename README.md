@@ -1,4 +1,4 @@
 yose
 ====
 
-Repository for [Yose the game](http://www.yosethegame.com/)
+Repository for [YoseTheGame](http://www.yosethegame.com/)
